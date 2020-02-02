@@ -17,8 +17,8 @@ $ ruby play.rb
 ```
 ## Requirement
 
-Ruby Version 2.6.5
-bundler Version 2.1.4
+* Ruby Version 2.6.5
+* Bundler Version 2.1.4
 
 ## Run Test
 ``` bash
@@ -51,8 +51,7 @@ Game over!
 ```
 ## Commands
 * PLACE X,Y,Direction
-  will put the toy robot on the table in position X,Y and facing NORT=
-H, SOUTH, EAST or WEST.
+  will put the toy robot on the table in position X,Y and facing NORTH, SOUTH, EAST or WEST.
 
 * By Default, the origin (0,0) can be considered to be the SOUTH WEST most corner without PLACE command.
 
